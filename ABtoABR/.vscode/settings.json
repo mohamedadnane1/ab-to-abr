@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stack": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "locale": "cpp",
+        "new": "cpp",
+        "typeinfo": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "ios": "cpp"
+    }
+}
